@@ -1,0 +1,37 @@
+READ ME
+
+QiYue Zhang
+10131659
+
+USING TUTORIAL RESOURCES:
+
+boilerplate.cpp(set up)
+Game of life demo code
+Dragon demo code
+Makefile
+
+TO COMPILE AND RUN IN TERMINAL:
+
+>>make run
+
+Key Commands:
+
+     Q - Toggle gray scale
+     W - Toggle 2-bit quantization
+     E - Toggle both gray scale and quantization
+     R - Restore image to original state
+
+     A - Erase last control point
+     S - Erase last curve
+     D - Close curve and begin next curve
+     F - Close curve without ending current curve
+     G - Begin next curve with or without closing curve
+     Z - Hide or show control points
+
+     ESC - Close window
+
+Mouse Commands:
+
+     Left-Press and Drag:     Pan image
+     Scroll:                  Zoom in and out
+     Right-Click:             Place a control point
